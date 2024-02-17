@@ -26,7 +26,7 @@ Please follow the below instructions to run this branch in your machine:
 
 2. Clone this repository -
    ```sh
-   git clone https://github.com/Learn-with-Sumit/rnext.git
+   git clone https://github.com/kumarcmcc/axios/
    ```
 3. Go to the cloned project directory
    ```sh
